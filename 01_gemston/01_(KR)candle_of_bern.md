@@ -1,134 +1,172 @@
-# Chapter 1. GemSTON mine
+# 제1장: GemSTON mine
 
 
 <br>
 
-# Korean
-### 1. Bern의 꺼지지 않는 촛불
+### 1.1. 베른(Bern)의 꺼지지 않는 촛불
 ![alt text](image.png)
 <br><br><br>
-스위스 베른의 조용한 거리 한편에 자리 잡은 오래된 맥주집은 그날 유난히 활기가 넘쳤다. Maria의 가족이 함께 방문한 이 맥주집은 조상 대대로 내려온 전설의 시작점이라 불리는 곳이었다. 따뜻한 나무 테이블에 둘러앉은 가족들은, 저마다 시원한 맥주잔을 들며 옛날 이야기에 빠져들 준비가 되어 있었다.
 
-"할아버지, 그 전설은 정말 여기서 시작된 거예요?" Maria는 큰 눈을 깜빡이며 할아버지를 바라보았다. 어린 소녀의 눈은 이미 이야기에 대한 호기심으로 반짝이고 있었다. "하루 종일 걸었더니 다리가 부어올랐어요."
+"그거 한번 탁자위에 올려봐"
 
-할아버지는 부드럽게 미소 지으며 고개를 끄덕였다. "그래, Maria. 그 정도 고생하면서 올만한 가치는 있는 곳이야".
+"남들이 보면 어쩔려구요? 할아버지도 참..."
 
-거품서린 맥주가 할아버지의 목을 타고 들어간다. "바로 이곳에서 이야기가 시작됐지. 아주 오래전, GemSTON이 광부들 입에서 오르내리기 시작했어"
+"기념품인 줄 알겠지, 관광지 베른에, 더구나 이런 술집에서"
 
-옆에 있던 Hans는 맥주는 반잔만 마시고 할어버지를 바라본다. "그덕분에 우리 조상님들은 수백년을 고향을 떠나 떠돌이 생활을 했잖아요"
+주차를 마치고 돌아온 피터(Peter)는 할아버지가 오늘따라 조심성이 없다고 생각했다. 피터는 가방을 뒤져 부시럭 거리더니 테이블 위에 보석 하나를 올려놓았다.
 
-Hans의 눈을 잠시 바라보다가 할아버지는 잠시 맥주잔을 내려놓고 손끝으로 Felix의 어깨를 감쌌다. "주머니에서. 한번 꺼내서 올려놓아보렴"
+순간 테이블이 환해질 정도로 영롱한 빛이 뿜어져 나온다.
 
-Maria의 사촌 중 하나인 Felix가 부시럭 거리더니 가방에서 보석 하나를 꺼내 테이블 위에 올려둔다. "그럼 그 보석은 어디에 있어요? 아직도 여기 베른에 있나요?"
+"이거 그냥 들고 나온거에요. 들키면 쎄른(CERN)에서 쫓겨나요. "
 
-입가에 옅은 미소가 할아버지 얼굴에 추억처럼 흩날린다. 맥주집 벽에 걸린 오래된 그림을 바라보았다. 그곳에는 마을의 옛 모습이 그려져 있었다. 그는 마치 시간 속으로 빨려 들어가는 듯한 표정으로 조용히 입을 열었다.
+스위스 베른의 조용한 거리 한편에 자리 잡은 오래된 맥주집은 그날따라 유난히 활기가 넘쳤다. 할아버지는 피터를 힐끗 보며 가볍게 고개를 끄덕여 주었다.
+
+"대대로 광부였던 우리 가문에서 물리학 공부하는 과학자가 납셨다 이거지? "
+
+다른 손주들이 키득키득 거린다.
+
+"아이고 쫓겨나면 안되지 허허"
+
+키득거리다가 크리스티안이 한마디 거든다.
+
+"저녀석은 책을 팠지만, 우리는 땅을 팠어요. 하지만 우리가 더 부자에요 하하" 손자들은 저마다 목걸이, 귀걸이, 팔찌를 흔들어 보인다.
+
+함께 웃던 손녀 클라우디아(Claudia)의 눈에는 그림 하나가 들어왔다.
+
+"정말 저 그림에도 나오는네요. 똑같이 생겼어요"
+
+오래된 술집인 만큼, 벽에 걸린 그림도 오래되어 보인다. 그림 속 전사의 가슴에는 빛을 뿜어내는 큰 보석이 하나 박혀있다.
+
+"할아버지, 우리가 어릴 적에 해주시던 그 이야기가 진짜로 있었던 이야기라는 것인가요?"
+
+클라우디아는 큰 눈을 깜빡이며 할아버지를 바라보았다. 베른은 할아버지 가문이 오랜 떠돌이 생활을 마치고 정착을 하게 된 곳이었다. 그녀를 비롯한 할아버지의 손자들은 자장가와 함께 늘 듣고 자랐던 그 전설을 기억한다.
+
+들으면서 자란 가문의 옛 전래동화따뜻한 나무 테이블에 둘러앉은 가족들은, 저마다 시원한 맥주잔을 들며 옛날 이야기에 빠져들 준비가 되어 있었다.
+
+거품서린 맥주가 할아버지의 목을 타고 들어간다. "그러니까 내가 여기 와보자고 한 것이지. 모든 이야기는 바로 이곳에서 이야기가 시작됐지. 그리고 이 앞에 놓인 이 보석때문이지"
+
+가만히 이야기를 듣고만 있는 피터는 약간 볼맨 소리를 한다. "그덕분에 우리 조상님들은 수백년을 고향을 떠나 떠돌이 생활을 했잖아요"
+
+탁자위에 올려놓은 보석이 빛이 어른 어른 거린다. 할아버지의 입가에 옅은 미소가 불빛에 흩날리듯 어른거린다.
+
+맥주집 벽에 걸린 오래된 그림을 바라보았다.
+
+그곳에는 마을의 옛 모습이 그려져 있었다. 그는 마치 시간 속으로 빨려 들어가는 듯한 표정으로 조용히 입을 열었다.
+
 
 
 --------------------------------
-베른의 밤은 고요했다. 언덕 위로 뻗은 돌길은 소금광산에서 돌아오는 광부들의 발소리만이 울려 퍼졌다. 소금으로 유명한 이 마을에 새로운 소문이 퍼지고 있었다. 소금이 아닌, GemSTON이라는 미지의 보석에 대한 이야기였다. 누구도 그 보석을 실제로 본 적은 없었지만, 마을 사람들은 마치 그것이 이미 현실인 것처럼 수군거렸다.
+<br><br><br>
 
-광부들이 모여드는 작은 선술집 안에서 사람들은 유난히 떠들썩했다. 평소처럼 소금 얘기만 나오는 것이 아니라, 신비한 보석에 대한 소문이 대화를 지배하고 있었다.
+![alt text](image-4.png)
+<br><br><br>
 
-“들었어? GemSTON 말이야.” 한 광부가 낡은 잔을 들어올리며 말했다. 그의 눈은 흥분으로 빛났다.
+13세기의 베른(Bern)의 밤도 오늘처럼 여전히 고요했다.
 
-분명 소금광산에서 오팔을 주웠어. 근데 이게 다른 암석이랑 뒤엉켜 있어서 잘 떨어지지도 않더군. 한덩어리 들어보니 이걸 돌이라고 해야할지 보석이라고 해야할지 GemSTON이라고 일단 치자고.
+해가 지기 시작하면서 언덕 위로 뻗은 돌길은 소금광산에서 돌아오는 광부들의 발소리만이 울려 퍼졌다.
 
-옆자리에서 다른 광부가 툴툴거리며 대꾸했다. “말도 안 돼. 보석 하나가 그렇게 특별하다니. 어디에 있는지도 모르잖아.”
+"힘겹게 여기까지 왔는데 양초를 팔지도 않어"
 
-“그렇긴 해. 하지만 소문에 따르면, 그 보석은 그냥 빛나는 게 아니야. 한 번 빛나기 시작하면 꺼지지 않는다더군.”
+선술집에서 아버지는 양초를 바라본다. 깊게 패인 주름. 그는 맥주를 반쯤 마셨다.
 
-테이블 너머에서 젊은 소녀 Maria가 조용히 그들의 대화를 듣고 있었다. 그녀는 자신이 가진 비밀을 남들과 나누고 싶었지만, 그러기엔 아직 용기가 부족했다. 오늘 저녁, 그녀는 할머니로부터 오래된 전설을 듣게 될 예정이었다. 그 이야기가 마음속에서 그녀의 비밀과 연결될 것 같았다.
+"어차피 우리 형편에 비싼 물품이에요. 잊어버려요."
 
-“이게 단순한 소문이 아니라는 걸 알면, 넌 뭐라고 할 건데?” 누군가가 물었다.
+"그런 말을 하지마요. 여보. 광부일을 하지 않으면 이 많은 식구들을 어떻게 먹여살린단 말이요?"
 
-“말도 안 되는 소리 하지 마. 보석이 촛불을 대신한다고? 우리 같은 광부들이 촛불을 얼마나 쓰는지 알지? 밤새 꺼지지 않는 불빛이라니, 말도 안 돼.”
+아버지는 옆에서 밥을 먹고 있던 Maria와 동생 Hans를 둘어보았다. 둘은 아까 광산에서 주은 돌맹이 몇개를 가지고 놀고 있다. 눈길을 돌려 아버지는 함께 따라온 사촌들까지 훑어 보았다.
 
-그때 Maria가 그들의 대화에 끼어들었다. “그럼 만약 그런 보석이 있다면, 믿을 수 있을까요?” 그녀의 목소리는 부드러웠지만, 그 질문은 모든 사람을 잠시 멈추게 했다.
+대략 열 명 남짓의 대식구. 아버지는 남은 맥주 반잔을 들이켰다.
+엄마의 위로는 맥주 반 잔보다 못한 것 같았다.
 
-광부들은 그녀를 쳐다보며 어리둥절했다. “그래, 소녀야. 그런 보석이 있다면, 우리는 믿겠지. 하지만 그건 어디까지나 꿈같은 이야기야.”
+"형, 힘내요. 우리 유대인들을 같은 동네에 살게 해준 것만 해도 어디에요. 감사하게 생각해요"
 
-Maria는 그 말에 조용히 웃었다. 그녀는 손에 쥐고 있던 작은 GemSTON을 생각하며 가슴속에서 자라나는 신비한 감각을 느꼈다. 며칠 전부터, 그 돌이 빛나기 시작했는데, 이상하게도 불빛이 사라지지 않았다. 아마도 이 보석이야말로 그들이 말하는 GemSTON일지도 모른다고 생각했다. 그리고 그녀는 그 힘을 이해하기 시작한 것 같았다.
+아빠보다 열살이 어렸던 안드레아(Andreas)삼촌이 위로한다.
 
-집으로 돌아가는 길에 그녀는 선명한 밤하늘을 올려다보았다. 오랜 전통이 얽혀 있는 이 마을에서, 그녀가 할머니로부터 들을 이야기는 그녀의 운명을 결정할지도 몰랐다. 할머니의 집은 낡았지만 아늑했다. 문을 열고 들어가자 할머니는 모닥불 앞에 앉아 있었다. 그 옆에는 오래된 보석함이 열려 있었다.
+"여기서 자리를 잡지 못하면 안드레아랑 같이 용병으로 나갈테니 그렇게 알어"
 
-"Maria, 이제 이 보석의 진짜 이야기를 들을 때가 왔구나," 할머니는 낮고 따뜻한 목소리로 말했다. 그녀의 손에 쥔 GemSTON 목걸이가 모닥불빛에 반짝였다.
+식구들 전체가 갑자기 침묵에 빠진다. 아직 어리기만한 Maria와 Hans는 조약돌을 계속 가지고 놀면서도 눈물이 그렁그렁 맺힌다.
 
-"이건 단순한 보석이 아니란다. 우리 집안은 오랜 세월 동안 이 보석을 지켜왔단다. 그리고 이제 네가 그 운명을 이어받을 차례란다."
+마리아는 동생 한스가 울지 않도록 감싸 안은 후, 고개를 숙이고 조약돌을 손에 꽉쥐었다.
 
-Maria는 눈을 동그랗게 뜨고 물었다. “저도 이걸 사용할 수 있나요? 정말로 이 힘을 쓸 수 있는 거예요?”
+"용병으로 가서 살아남은 사람이 있던가요? 애 앞에서 무슨 말을 하는거에요 지금"
 
-할머니는 미소를 지었다. “너는 이 힘을 이미 알고 있지 않니, Maria? 너는 빛을 꺼지지 않게 만들 수 있단다.”
+"무책임한 아빠로 사는 것 보다는 낫지않소" 담담한 대답만이 아빠의 입에서 나올 뿐이다.
 
-그녀는 그 말을 믿을 수 없었지만, 그녀의 손 안에 있던 보석은 여전히 빛나고 있었다. 그리고 그날 밤, 할머니는 그녀에게 더 깊은 이야기를 들려주었다. GemSTON은 단순한 광석이 아니었다. 그것은 옛날 유대인 혈통을 통해 전해진 전설의 일부였다.
+마리아의 두 볼을 타고 흐르던 눈물이 조약돌에 떨어진다. 마리아는 손가락 사이로 빛이 새어나오는 것을 보았다.
+
+두려운 마음에 탁자 밑으로 손을 넣고, 살짝 열어보았다. 영롱한 빛이 보였다.
+손을 다시 오므렸다. 그리고 두손을 모아 더욱 꽉 쥐어보았다. 탁자 밑이 환해진다.
+
+"저도 형님 말씀에 동의해요. 가족을 위한다면 못할 것이 없죠. 걱정마세요 형수님"
+
+엄마는 우는 모습을 애들 앞에서 보이고 싶지 않아서 촛불을 꺼버렸다.
+
+흐르는 침묵이 어색해질 무렵,
+
+"아빠"
+
+아빠도 고개를 숙이고 있었다.
+
+"꼭 양초가 아니어도 되는 것이죠?"
+
+뭔가 환한 느낌이 들어 아빠는 고개를 들어보니 테이블은 밝은 빛으로 가득했다.
+가엽은 마리아는 활짝 웃고 있었고, 그 천진난만한 얼굴 양쪽 볼에는 검게 눈물자국을 볼 수 있었다. '촛불을 누가 다시 켰나'
+
+조약돌.
+
+테이블 위, 마리아의 조약돌이 촛불보다 더 밝게 빛나고 있었다. 아빠는 본능적으로 조약돌을 감싸 주머니에 넣었고 다시 촛불을 켰다.
+
+"무슨 짓을 한거냐?"
+
+엄마도, 삼촌도, 그리고 사촌들까지도 모두 놀란 눈이 되었다.
+어쩔 줄을 몰라 울먹이는 마리아를 엄마는 꼭 안아주었다.
+
+
+테이블 너머에서 몇몇은 여전히 태연한 척 하지만 곁눈으로 이 놀라운 광경을 계속 지켜보고 있다.
+<br>
+
+![alt text](image-2.png)
+<br><br><br>
+
+
+"마리아"
+
+서둘러 돌아온 집.
+<br> 엄마가 잠든 마리아를 깨운다.
+
+"...제가 조약돌을 맘대로 주워와서 죄송해요"
+
+"조약돌이 문제가아 아니란다. 어쩌면 네가 문제일 수도 있어."
+
+물잔을 한 손에 들고, 주전자를 찾으러 여기저기 다니다가 엄마는 갑자기 창 앞에 서서 하늘을 바라봤다. 한참 만에 입을 연다.
+
+"늦었지만 할머니에게 꼭 갔다오렴"
+
+외할머니는 바로 옆 언덕 위에 있는 오두막 집에 혼자 사신다. 멀지 않다.
+
+"자고 와도 좋아"
+
+그렇게 마리아가 할머니 집에 가고, 엄마는 마리아 방에서 한숨도 자지 않고 기다렸다.
+
+새벽이 가까워 올 무렵, 어머니는 외할머니 댁에 들렸다. 그리고 문틈 사이로 들려오는 두 사람이 아직도 이야기하는 것을 보게 되었다.
+
+할머니는 미소를 지었다.
+
+"나도 물려받은 목걸이가 너한테 이렇게 잘 어울릴 줄은 몰랐구나"
+
+방안이 온통 목걸이의 보석이 뿜는 광채로 환하다.
+
+“나한테는 그냥 갑싼 목걸이지만 너는 그힘을 꺼낼 수 있구나.”
+
+마리아는 할머니의 말을 믿을 수 없었지만, 그녀의 손 안에 있던 보석은 여전히 빛나고 있었다.
 
 " 더 이야기 해주세요"
 
-" 오늘은 그만 자도록 하자, 우리 아기"
+" 이야기를 듣는 것보다는 네가 이야기를 만들어 가야한단다, 우리 아기"
+
+어느새 밤은 지나고 베른의 아침이 밝아오고 있었다.
+
+<br>
+
+![alt text](image-5.png)
 <br><br><br>
-![alt text](image-1.png)
-
-
-<br><br><br><br><br><br>
-
-# English
-### 1. The Ever-burning Candle
-
-![alt text](image.png)
-<br><br><br>
-In the quiet streets of Bern, Switzerland, during the 13th century, an old tavern brimmed with life. Known as the starting point of a legendary tale passed down through generations, Maria's family gathered at a warm wooden table inside. With frosty mugs of beer in hand, they were ready to dive into stories of old.
-
-"Grandfather, did the legend really start here?" Maria asked, her eyes wide with curiosity, sparkling with eagerness for the tale. "My legs are swollen from walking all day."
-
-With a gentle smile, Grandfather nodded. "Yes, Maria. It's worth the trek you've made."
-
-Foamy beer trickled down Grandfather's throat. "It all started right here. Long ago, the GemSTON began circulating among the miners."
-
-Hans, sitting beside him, sipped only half his beer and turned to Grandfather. "Because of it, our ancestors wandered for centuries, far from home."
-
-Grandfather paused, setting down his mug to rest a hand on Felix's shoulder. "From your pocket. Bring it out for us to see."
-
-Felix, one of Maria's cousins, rustled in his bag and placed a gem on the table. "So where is this gem now? Is it still here in Bern?"
-
-A faint smile fluttered across Grandfather's face like a memory. He glanced at an old painting on the tavern wall depicting the village in ancient times. He seemed to drift back through the ages as he began to speak.
-
-Bern's night was tranquil. The stone path stretching over the hill echoed with the footsteps of miners returning from the salt mines. In this town famed for salt, a new rumor was spreading about an unknown gem called GemSTON. Though no one had seen it, the villagers whispered as if it were real.
-
-Inside a small pub, the miners were unusually animated. The usual talk of salt was overtaken by tales of the mysterious gem.
-
-"Have you heard? About the GemSTON," one miner raised his worn glass, his eyes alight with excitement.
-
-"I swear it was opal I picked up in the salt mine. It was tangled with other rocks, hard to separate. It felt odd, calling it a rock or a gem, so let's just say GemSTON."
-
-Another miner scoffed, "Nonsense. A gem that special? We don't even know where it is."
-
-"That may be, but rumor has it, this isn't just any shining gem. Once it starts glowing, it never stops."
-
-From across the table, young Maria listened quietly. She wanted to share her secret, but lacked the courage. That evening, she was to hear an ancient legend from her grandmother, a tale that seemed to connect with her secret.
-
-"If this isn't just a rumor, what would you say then?" someone asked.
-
-"Don't be foolish. A gem replacing a candle? Do you know how much we miners use candles? A light that never goes out, that's impossible."
-
-That's when Maria joined their conversation. "What if such a gem existed? Would you believe it?" Her voice was gentle, but her question halted everyone.
-
-The miners stared, puzzled. "Yes, girl. If such a gem existed, we'd believe. But it's nothing more than a fanciful tale."
-
-Maria smiled quietly. She thought of the small GemSTON she held, which had started to glow a few days earlier and strangely, the light hadn't faded. Maybe this gem was the GemSTON they spoke of. And she felt she was beginning to understand its power.
-
-Walking home under a clear night sky, she anticipated the story she would hear from her grandmother. Her grandmother's house was old but cozy. As she entered, her grandmother sat by the fire, an open jewel box beside her.
-
-"Maria, it's time you heard the true story of this gem," her grandmother spoke softly, the GemSTON necklace sparkling in the firelight.
-
-"It's not just any gem, my dear. Our family has guarded it for generations. And now, it's your turn to carry on this destiny."
-
-Maria's eyes widened. "Can I use it too? Can I really wield its power?"
-
-Her grandmother smiled. "Don't you already know, Maria? You can keep the light alive."
-
-She couldn't believe it, but the gem in her hand continued to shine. That night, her grandmother told her a deeper tale. The GemSTON was more than a mere mineral. It was part of a legend passed down through Jewish lineage.
-
-"Tell me more," Maria pleaded.
-
-"Let's call it a night, my child," her grandmother decided, as Maria's eyes drifted towards sleep.
-<br><br><br>
-![alt text](image-1.png)
