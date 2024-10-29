@@ -15,7 +15,7 @@
 <br><br><br>
 ---
 
-### 1.1. 마리아 (Mari)
+### 1.1. 마리아 (Maria)
 ![alt text](images/image.png)
 <br><br><br>
 
