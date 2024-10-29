@@ -2,7 +2,7 @@
 # Chapter 1 : GemSTON mine
 ### 1.1. The Ever-burning Candle
 
-![alt text](image.png)
+![alt text](images/image.png)
 <br><br><br>
 In the quiet streets of Bern, Switzerland, during the 13th century, an old tavern brimmed with life. Known as the starting point of a legendary tale passed down through generations, Maria's family gathered at a warm wooden table inside. With frosty mugs of beer in hand, they were ready to dive into stories of old.
 
@@ -60,4 +60,4 @@ She couldn't believe it, but the gem in her hand continued to shine. That night,
 
 "Let's call it a night, my child," her grandmother decided, as Maria's eyes drifted towards sleep.
 <br><br><br>
-![alt text](image-1.png)
+![alt text](images/image-1.png)
