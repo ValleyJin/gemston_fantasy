@@ -1,10 +1,11 @@
 # Book 1 : GemSTON
 
 
-## <span style="color:grey">Chapter 1. Ever-burning Candles in Bern</span>
+## <span style="color:grey">Chapter 1</span>
 ![alt text](images/image.png)
 
-### 제1장. 베른(Bern)의 꺼지지 않는 촛불 <br>
+### Chapter 1. Ever-burning Candles in Bern <br>
+베른(Bern)의 꺼지지 않는 촛불 <br>
 * 1.1. Maria ([마리아](/01_gemston/01_(KR)maria.md))
 * 1.2. Cezar (세자르)
 * 1.3. Mining & Staking (마이닝 & 스테이킹)
@@ -18,30 +19,33 @@ Jewelry(보석)이라는 말은 jew(유대인)에서 파생되었을 정도로 �
 
 <br><br><br>
 
-## <span style="color:grey">Chapter 2 : Battle of Morgarten <span>
+## <span style="color:grey">Chapter 2<span>
 
 ![alt text](images/image-1.png)
 
-### 제2장. 모르가르텐 전투 <br>
-* 2.1. 일어서는 스위스
-* 2.2. 마리아의 여행
-* 2.3. 합스부르크 가문
-* 2.4. 기적
+### Chapter 2. Battle of Morgarten <br>
+모르가르텐 전투 <br>
+* 2.1. The Rising of Switzerland (일어서는 스위스)
+* 2.2. Maria's Pilgrimage (마라이의 순례)
+* 2.3. The Habsburg Dynasty (합스부르크 가문)
+* 2.4. Miracle (기적)
 
 ### Introduction
 comming soon
 
 <br><br><br>
 
-## <span style="color:grey">Chapter 3 : 7 Knights of GemSTON <span>
+## <span style="color:grey">Chapter 3<span>
 
 ![alt text](images/image-4.png)
 
-### 제3장. GemSTON 기사단 <br>
-* 3.1. 템플 기사단
-* 3.2. 마이닝, 스테이킹, 포징
-* 3.3. GemSTON 기사단
-* 3.4. 토리
+### Chapter 3. Sevne Knights of GemSTON <br>
+잼스톤 기사단
+
+* 3.1. The Knights of Templar (성전 기사단)
+* 3.2. Mining, Staking, Forging (마이닝, 스테이킹, 포징)
+* 3.3. The GemSTON Knights (잼스톤 기사단)
+* 3.4. Tori (토리)
 
 ### Introduction
 comming soon
@@ -49,15 +53,16 @@ comming soon
 
 <br><br><br>
 
-## <span style="color:grey">Chapter 4 : Disappear<span>
+## <span style="color:grey">Chapter 4<span>
 
 ![alt text](images/image-3.png)
 
-### 제4장. 증발 <br>
-* 4.1. 런던 박람회
-* 4.2. 세자르의 부활
-* 4.3. 예언자
-* 4.4. 영원속으로
+### Chapter 4. Disappear <br>
+증발
+* 4.1. EXPO 1851 LONDON (런던박람회)
+* 4.2. The Resurrection of Caesar (세자르의 부활)
+* 4.3. The Prophet (예언자)
+* 4.4. To Eternity (영원속으로)
 
 ### Introduction
 comming soon
