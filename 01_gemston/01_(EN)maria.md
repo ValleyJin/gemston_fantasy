@@ -179,7 +179,9 @@ It was Maria.<br> Maria, who Uncle Andreas had pushed against the wall for prote
 
 Not just that.<br> The pebbles on the table were shining brighter than the candles.<br>
 
-"Sir... Can we use this instead of candles?"<br> Maria looks up at Max with her swollen eyes, smiling innocently.<br>
+"Sir.., Could you..." <br>
+
+"Could you... accept this instead of the candle my daddy broke?""<br> Maria looks up at Max with her swollen eyes, smiling innocently.<br>
 
 ![alt text](image-1.png)
 
