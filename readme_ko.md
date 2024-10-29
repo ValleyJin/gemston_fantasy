@@ -4,6 +4,8 @@
 * You can find the English version : [English ver](readme.md).
 
 
+![alt text](gemston_engine.png)
+
 <sapn style="color:grey">**_“막대한 에너지가 특정 주파수를 가지는 super string의 형태로 모여있다는 것. 그리고, 그것이 특정한 광물질의 결정구조 속에서 안전하게 저장되어 있다는 것, 우리는 일단 거기까지만 밝혀냈습니다. 이 에너지의 활용용도는 무한합니다. 인류사회가 새로운 기회를 맞이하고 있습니다. 하지만 이 에너지가 어디에서 온 것인지는 아직 모릅니다._**<span><br>
 
 <sapn style="color:grey">**_우리는 반드시 알아내야 합니다. 그리고 알게 될 것입니다._**<span><br>
@@ -12,8 +14,6 @@
 칼 마그누스 박사 (끈이론의 증명으로 노벨상이 확정된 후 CERN과의 인터뷰 중에서)
 
 <br><br><br>
-![alt text](gemston_engine.png)
-
 
 ## 1. Introduction
 
@@ -29,7 +29,11 @@
 
 #### Books
 * 1권 : GemSTON [읽기](/storymap/storymap.md)
-* 2권 ~ 6권 : 추후 오픈 예정
+* 2권 : Grand Chase
+* 3권 : Awakening of the Gods
+* 4권 : Perseus Coalition
+* 5권 : Revelation
+* 6권 : Forest Path
 
 <br>
 

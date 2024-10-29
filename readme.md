@@ -28,8 +28,11 @@ I have created a vast universe centered around GemSTON. I would love to hear you
 
 #### Books
 * Book 1 : [GemSTON](/storymap/storymap.md)
-* Book 2 ~ 6 : Comming soon
-
+* Book 2 : Grand Chase
+* Book 3 : Awakening of the Gods
+* Book 4 : Perseus Coalition
+* Book 5 : Revelation
+* Book 6 : Forest Path
 <br>
 
 ![alt text](chronicles.png)
