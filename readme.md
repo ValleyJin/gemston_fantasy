@@ -5,7 +5,7 @@
 
 ![alt text](gemston_engine.png)
 
-<sapn style="color:grey">**_“We have discovered that vast energy, in the form of superstrings with specific frequencies, accumulates and is safely stored within the crystal structure of a specific mineral. That is all we have uncovered so far. The potential applications of this energy are limitless. Human society is facing new opportunities. However, we still do not know where this energy comes from._**<span><br>
+<sapn style="color:grey">**_“We have discovered that vast energy, in the form of vibrating superstrings, accumulates and is safely stored within the crystal structure of a specific mineral. That is all we have uncovered so far. The potential applications of this energy are limitless. Human society is facing new opportunities. However, we still do not know where this energy comes from._**<span><br>
 
 <sapn style="color:grey">**_We must know, and we will know. ”_**<span><br>
 
