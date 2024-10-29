@@ -203,7 +203,7 @@ Thirsty, mom held a glass of water in one hand and looked around for the jug. Th
 
 The curtains fluttered in the wind, revealing a strange smile on mom’s face illuminated by the moonlight.<br>
 
-"It's late, but you should go to your grandmother's."<br>
+"I know it's late, but you should go to your grandmother's."<br>
 
 Grandma lives alone in a cabin just up the hill next to them. Knowing what Maria might say next, mom added.<br>
 
