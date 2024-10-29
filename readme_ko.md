@@ -28,7 +28,7 @@
 저는 GemSTON을 중심으로 벌어지는 거대한 세계관을 만들었어요. 하나씩 공개될 때마다 여러분의 의견도 듣고 싶어요 <br>
 
 #### Books
-* 1권 : GemSTON [읽기](/storymap/storymap.md)
+* 1권 : [GemSTON](/storymap/storymap.md)
 * 2권 : Grand Chase
 * 3권 : Awakening of the Gods
 * 4권 : Perseus Coalition
