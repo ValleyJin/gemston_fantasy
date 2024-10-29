@@ -3,6 +3,7 @@
 
 * 한국어로 된 소개는 여기에 있습니다 : [Korean ver](readme_ko.md).
 
+![alt text](gemston_engine.png)
 
 <sapn style="color:grey">**_“We have discovered that vast energy, in the form of superstrings with specific frequencies, accumulates and is safely stored within the crystal structure of a specific mineral. That is all we have uncovered so far. The potential applications of this energy are limitless. Human society is facing new opportunities. However, we still do not know where this energy comes from._**<span><br>
 
@@ -11,8 +12,6 @@
 Dr. Karl Magnus, in an interview with CERN after his Nobel Prize was confirmed for proving string theory.
 
 <br><br><br>
-![alt text](gemston_engine.png)
-
 
 ## 1. Introduction
 
