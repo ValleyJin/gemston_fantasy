@@ -16,7 +16,7 @@ Dr. Karl Magnus, in an interview with CERN after his Nobel Prize was confirmed f
 ## 1. Introduction
 
 
-This story is a fiction created by a fan who loves the GemSTON game.<br>
+This story is a fiction created by me, a fan who loves the GemSTON game.<br>
 
 It depicts a new world centered around the imaginary gem, GemSTON. But is it really just an imaginary gem?<br>
 
