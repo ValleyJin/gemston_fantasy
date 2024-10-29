@@ -5,9 +5,9 @@
 
 ![alt text](gemston_engine.png)
 
-<sapn style="color:grey">**_“We have discovered that vast energy vibrates in the form of very tiny strings and is trapped within the crystal structure of a specific mineral. That is all we have uncovered so far. The potential applications of this energy are limitless. Human society is facing new opportunities."_**<span><br>
+<sapn style="color:grey">**_“We have discovered that vast energy vibrates in the form of very tiny strings and is trapped within the crystal structure of a specific mineral. That is all we have uncovered so far. The potential applications of this energy are limitless. Human society is facing new opportunities._**<span><br>
 
-<sapn style="color:grey">**_However, we still do not know where this energy comes from._**<span><br>
+<sapn style="color:grey">**_However, we still do not know where this energy comes from."_**<span><br>
 
 Dr. Karl Magnus, in an interview with CERN after his Nobel Prize was confirmed for proving string theory.
 
