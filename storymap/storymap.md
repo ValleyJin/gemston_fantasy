@@ -43,7 +43,7 @@ comming soon
 잼스톤 기사단
 
 * 3.1. The Knights of Templar (성전 기사단)
-* 3.2. Mining, Staking, Forging (마이닝, 스테이킹, 포징)
+* 3.2. Forging (포징)
 * 3.3. The GemSTON Knights (잼스톤 기사단)
 * 3.4. Tori (토리)
 
