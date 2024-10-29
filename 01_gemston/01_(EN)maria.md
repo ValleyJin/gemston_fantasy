@@ -160,6 +160,27 @@ Before he can finish, mother screams. With a deadpan face, father stands and sta
 
 "You crazy man... This is my tavern. Do you even have the money to pay for the candles?" Max pulls out a knife from his sheath. With a fiery glare, he flips the table over.<br>
 
+![alt text](image.png)
+"If you can beat me in a duel, I won't charge for the candles."<br>
+
+Max throws a sword from the wall at father. Mother has fainted, and Uncle Andreas is holding back Maria and Hans as they try to run to their father. Maria's eyes are swollen from crying.<br>
+
+Max easily pushes father into a corner with one arm, and soon his sword shoots up into the air.<br>
+
+At that moment, a bright light flies from behind and reflects off Max's sword, blinding him. Angry, Max turns around as if his neck might snap.<br>
+
+.<br> .<br> .<br> .<br>
+
+The people stare at the spot.<br> The tavern, darkened by extinguished candles, suddenly lights up brightly.<br>
+
+Amidst the murmuring crowd, the figure holding something shining like broad daylight gradually appears.<br>
+
+It was Maria.<br> Maria, who Uncle Andreas had pushed against the wall for protection.<br>
+
+Not just that.<br> The pebbles on the table were shining brighter than the candles.<br>
+
+"Sir... Can we use this instead of candles?"<br> Maria looks up at Max with her swollen eyes, smiling innocently.<br>
+
 ![alt text](image-1.png)
 
 "What on earth have you done?"<br>
