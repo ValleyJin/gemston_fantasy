@@ -6,7 +6,7 @@
 
 ### Chapter 1. Ever-burning Candles in Bern <br>
 베른(Bern)의 꺼지지 않는 촛불 <br>
-* 1.1. Maria ([마리아](/01_gemston/01_(KR)maria.md))
+* 1.1. [Maria](/01_gemston/01_(EN)maria.md) ([마리아](/01_gemston/01_(KR)maria.md))
 * 1.2. Cezar (세자르)
 * 1.3. Mining & Staking (마이닝 & 스테이킹)
 * 1.4. The Vatican (교황청)
