@@ -1,4 +1,4 @@
-3.3. Revealing Metal Armor Secrete
+3.3. Revealing Metal Armor Secrete
 
 #1. 양손낙인 갑옷의 비밀
 
