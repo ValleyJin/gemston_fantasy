@@ -1,4 +1,4 @@
-전투 포메이션(Battle formation: 특수유닛)
+#3. 전투 포메이션(Battle formation: 특수유닛)
 
 Guardian이 보내는 GemSTON 의 힘을 더 멀리 전달하는 ⑤ Linker
 

@@ -1,4 +1,6 @@
-로스차이들 가문의 합류
+2.3.전투 포메이션(Battle formation:Battle formation)
+
+#1. 로스차이들 가문의 합류
 
 로스차일드 가문의 은행 회장실
 
@@ -19,6 +21,14 @@
 
 ================================================================
 
-전투 포메이션(Battle formation:Battle formation)
+#2. 전투 포메이션(Battle formation:Battle formation)
 
-② Archer ③ Halberd ④ Lancer 세 명이 Guardian의 힘을 이용하여 더욱 강력한 파괴능력을 보인다.
+7인의 오합지졸.
+
+그들은 전투대형을 연습하면서 잼스톤의 힘에 놀라고, 일정부분 초능력이 있던 이들은 잼스톤의 힘으로 능력이 배가되는 기쁨을 맛본다.
+
+마침내 ① Guardian ② Archer ③ Halberd ④ Lancer ⑤ Linker ⑥ Healer ⑦Tori (나중에 합류)
+
+이렇게 7인 포메이션을 완성하여, 오합지졸이 정예 기사로 변모해간다.
+
+특히 ② Archer ③ Halberd ④ Lancer 세 명은 공격을 담당하며, Guardian의 힘을 이용하여 더욱 강력한 파괴능력을 보인다.
