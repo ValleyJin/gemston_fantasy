@@ -1,4 +1,22 @@
-#3. 전투 포메이션(Battle formation: 특수유닛)
+#3. 전투 포메이션(Battle formation:Battle formation)
+
+3개주에서 잼스톤을 활용할 부대원들이 모두 모여서 참관한다.
+
+이를 어떤 식으로 활용해야할 것인지 보여줘야 하는데.
+마리아를 찾아온 7인의 능력자도 오합지졸이다.
+
+하지만 실험을 계속하면서 그들은 답을 찾는다.
+
+그들은 전투대형을 연습하면서 잼스톤의 힘에 놀라고, 일정부분 초능력이 있던 이들은 잼스톤의 힘으로 능력이 배가되는 기쁨을 맛본다.
+
+마침내 ① Guardian ② Archer ③ Halberd ④ Lancer ⑤ Linker ⑥ Healer ⑦Tori (나중에 합류)
+
+이렇게 7인 포메이션을 완성하여, 오합지졸이 정예 기사로 변모해간다.
+
+특히 ② Archer ③ Halberd ④ Lancer 세 명은 공격을 담당하며, Guardian의 힘을 이용하여 더욱 강력한 파괴능력을 보인다.
+
+
+#4. 전투 포메이션(Battle formation: 특수유닛)
 
 Guardian이 보내는 GemSTON 의 힘을 더 멀리 전달하는 ⑤ Linker
 
