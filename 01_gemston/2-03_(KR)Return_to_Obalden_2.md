@@ -1,4 +1,4 @@
-#3. 전투 포메이션(Battle formation:Battle formation) <br>
+# 1. 전투 포메이션(battle formation) <br>
 
 "참 대단하십니다. "<br>
 성벽이며, 무기며, 단단히 준비한 진영을 돌아보며 제랄드가 감탄한다. <br>

@@ -1,5 +1,3 @@
-# Chapter 1. The Ever-Buring Candles in Bern
-
 ![alt text](images/image-6.png)
 
 **_My dear grandson Peter._** <br>
@@ -15,7 +13,7 @@
 <br><br><br>
 ---
 
-### 1.1. Maria
+# 1. The Ever-Buring Candles in Bern
 ![alt text](images/image.png)
 <br><br><br>
 

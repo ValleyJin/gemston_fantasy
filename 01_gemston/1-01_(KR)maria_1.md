@@ -1,5 +1,3 @@
-# 제1장: 베른(Bern)의 꺼지지 않는 촛불
-
 ![alt text](images/image-6.png)
 
    **_사랑하는 피터._** <br>
@@ -13,9 +11,10 @@
    **_어차피 우리 집안이 기증한건데 잠깐 꺼내온다고 뭐 별일이야 있겠니?_** <br>
 
 <br><br><br>
----
 
-### 1.1. 마리아 (Maria)
+
+# 1. 베른(Bern)의 꺼지지 않는 촛불
+
 ![alt text](images/image.png)
 <br><br><br>
 

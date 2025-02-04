@@ -1,5 +1,5 @@
+# 1. 세자르(Cesar)
 
-### 1.2. 세자르(Cesar)
 <br><br><br>
 ![alt text](./images/ch-01-2-cesar-01.png)
 <br><br><br>
