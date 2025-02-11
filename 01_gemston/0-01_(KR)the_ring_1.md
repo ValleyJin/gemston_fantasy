@@ -289,4 +289,6 @@ NSA(National Security Agency)에서도 처음에 신호를 잡았을 때는, <br
 굉음과 함께, 모든 모니터의 신호가 꺼져버렸다. <br>
 
 <br><br><br>
-[다음 편 읽기](01_gemston/0-01_(KR)the_ring_2.md)
+
+* [목차 보기](content_kr.md) <br>
+* [다음 편 읽기](01_gemston/0-01_(KR)the_ring_2.md)
