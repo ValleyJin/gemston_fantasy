@@ -152,4 +152,5 @@
 <br><br><br>
 
 * [목차 보기](content_kr.md) <br>
+* [이전 편 읽기](/01_gemston/KR/2-02_(KR)Maria_Pilgrimage_2.md)
 * [다음 편 읽기](/01_gemston/KR/2-03_(KR)Return_to_Obalden_2.md)

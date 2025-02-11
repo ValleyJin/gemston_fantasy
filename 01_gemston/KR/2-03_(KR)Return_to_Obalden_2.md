@@ -191,4 +191,5 @@
 
 <br><br><br>
 * [목차 보기](content_kr.md) <br>
+* [이전 편 읽기](/01_gemston/KR/2-03_(KR)Return_to_Obalden_1.md)
 * [다음 편 읽기](/01_gemston/KR/2-04_(KR)miracle_1.md)

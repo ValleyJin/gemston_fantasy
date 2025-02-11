@@ -130,4 +130,5 @@
 <br><br><br>
 
 * [목차 보기](content_kr.md) <br>
+* [이전 편 읽기](/01_gemston/KR/1-03_(KR)Avignon_2.md)
 * [다음 편 읽기](/01_gemston/KR/1-04_(KR)mining_and_staking_2.md)

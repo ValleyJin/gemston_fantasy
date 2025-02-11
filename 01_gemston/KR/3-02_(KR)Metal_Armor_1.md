@@ -157,4 +157,5 @@ Cafe Marta 벽면의 스크린에서는 드로르간 우주왕복선의 작업�
 <br><br><br>
 
 * [목차 보기](content_kr.md) <br>
+* [이전 편 읽기](/01_gemston/KR/3-01_(KR)templar_knights_2.md)
 * [다음 편 읽기](/01_gemston/KR/3-02_(KR)Metal_Armor_2.md)

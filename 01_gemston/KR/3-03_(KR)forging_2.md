@@ -245,4 +245,5 @@
 <br><br><br>
 
 * [목차 보기](content_kr.md) <br>
+* [이전 편 읽기](/01_gemston/KR/3-03_(KR)forging_1.md)
 * [다음 편 읽기](/01_gemston/KR/3-04_(KR)return_of_maria_1.md)

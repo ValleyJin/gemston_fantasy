@@ -128,4 +128,5 @@
 
 <br><br><br>
 * [목차 보기](content_kr.md) <br>
+* [이전 편 읽기](/01_gemston/KR/2-01_(KR)the_rise_of_switzerland_2.md)
 * [다음 편 읽기](/01_gemston/KR/2-02_(KR)Maria_Pilgrimage_2.md)
