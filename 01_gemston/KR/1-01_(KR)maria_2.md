@@ -52,7 +52,7 @@
 탐욕스러운 어둠의 신은 <br>
 지금도 잼스톤 조각들을 찾으러 다니고 있어. <br>
 <br>
-![alt text](god_of_darkness.png)
+![alt text](/01_gemston/images/god_of_darkness.png)
 <br><br><br>
 이 할머니도 이것이 전설인 줄 알았어.<br>
 자장가처럼.<br>
