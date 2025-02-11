@@ -122,4 +122,5 @@
 
 <br><br><br>
 
-[다음 편 읽기](2-01_(KR)the_rise_of_switzerland_1.md)
+* [목차 보기](content_kr.md) <br>
+* [다음 편 읽기](2-01_(KR)the_rise_of_switzerland_1.md)

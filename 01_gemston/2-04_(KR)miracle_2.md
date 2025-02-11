@@ -204,4 +204,5 @@
 
 <br><br><br>
 
-[다음 편 읽기](3-01_(KR)templar_knights_1.md)
+* [목차 보기](content_kr.md) <br>
+* [다음 편 읽기](3-01_(KR)templar_knights_1.md)

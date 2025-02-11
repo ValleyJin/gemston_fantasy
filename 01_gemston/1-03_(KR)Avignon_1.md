@@ -167,4 +167,5 @@ TV를 켜보니, 노벨상 생중계는 이미 시작되었다.  <br>
 
 <br><br><br>
 
-[다음 편 읽기](1-03_(KR)Avignon_2.md)
+* [목차 보기](content_kr.md) <br>
+* [다음 편 읽기](1-03_(KR)Avignon_2.md)

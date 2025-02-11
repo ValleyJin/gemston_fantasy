@@ -235,4 +235,5 @@
 
 <br><br><br>
 
-[다음 편 읽기](3-03_(KR)forging_2.md)
+* [목차 보기](content_kr.md) <br>
+* [다음 편 읽기](3-03_(KR)forging_2.md)

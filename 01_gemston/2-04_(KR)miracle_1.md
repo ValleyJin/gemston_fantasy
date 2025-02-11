@@ -128,4 +128,5 @@
 
 <br><br><br>
 
-[다음 편 읽기](2-04_(KR)miracle_2.md)
+* [목차 보기](content_kr.md) <br>
+* [다음 편 읽기](2-04_(KR)miracle_2.md)

@@ -129,4 +129,5 @@
 
 <br><br><br>
 
-[다음 편 읽기](1-04_(KR)mining_and_staking_2.md)
+* [목차 보기](content_kr.md) <br>
+* [다음 편 읽기](1-04_(KR)mining_and_staking_2.md)

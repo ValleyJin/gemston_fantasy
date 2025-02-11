@@ -239,4 +239,5 @@ CERN에는 피터 혼자만 남아있다. 고요함이 주위에 감돈다.<br>
 
 <br><br><br>
 
-[다음 편 읽기](3-01_(KR)templar_knights_2.md)
+* [목차 보기](content_kr.md) <br>
+* [다음 편 읽기](3-01_(KR)templar_knights_2.md)

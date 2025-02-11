@@ -139,7 +139,7 @@
 <br><br><br>
 
 
-# 34. 잼스톤 기사단 (Metal Armor 발현 직전까지) <br>
+# 34. 잼스톤 기사단 (GemSTON Knights)<br>
 <br><br><br>
 
 잼스톤 기사단 측에선, 부상에서 회복한 제랄드는 로스차일드 가문 소속의 첩자로부터 키이스가 형을 죽였다는 사실에 분노하고, 복수를 다짐한다. 
@@ -222,5 +222,5 @@
 
 
 <br><br><br>
-
-[다음 편 읽기](3-04_(EN)return_of_maria_2.md)
+* [목차 보기](content_kr.md) <br>
+* [다음 편 읽기](3-04_(EN)return_of_maria_2.md)
