@@ -9,7 +9,7 @@
 
 <sapn style="color:grey">**_However, we still do not know where this energy comes from."_**<span><br>
 
-Dr. Karl Magnus, in an interview with CERN after his Nobel Prize was confirmed for proving string theory.
+Dr. Karl Drake, in an interview with CERN after his Nobel Prize was confirmed for proving string theory.
 
 <br><br><br>
 
