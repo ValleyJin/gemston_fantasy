@@ -8,7 +8,7 @@
 . <br>
 . <br>
 
-![Bern 시가지](../images/ch-0-01-Bern_cafe.webp)
+![alt text](/01_gemston/images/ch-0-01-Bern_cafe.webp)
 <br><br><br>
 
 "사랑하는 피터. <br>
@@ -55,7 +55,7 @@
 
 오오오...<br>
 
-![alt text](../images/image.png)
+![alt text](/01_gemston/images/image.png)
 <br><br><br>
 
 "아직도 분석 중인 샘플이라서, 허락도 안받고 그냥 들고 나온거에요." <br>

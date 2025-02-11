@@ -1,7 +1,7 @@
 # 4. 마리아(Maria) <br>
 <br><br><br>
 
-![alt text](../mari_grandma.png) <br><br><br>
+![alt text](/01_gemston/images/mari_grandma.png) <br><br><br>
 "우리 애기" <br>
 
 마리아가 오리라는 것을 이미 아신다는 듯한 말투다. <br>
@@ -39,7 +39,7 @@
 자신이 기르는 너구리 토리(Tori)의 목에 걸어주었어. <br>
 <br>
 
-![alt text](tori.png)
+![alt text](/01_gemston/images/tori.png)
 <br><br><br>
 
 하지만 어둠의 신은 약속을 어기고, 몰래 다가와서 토리를 납치했어.<br>
@@ -202,7 +202,7 @@
 깨진 벽돌은 언덕 위 오솔길에 널브러졌다. <br>
 <br>
 
-![alt text](images/ch-0-01-first_impact.webp)
+![alt text](/01_gemston/images/ch-0-01-first_impact.webp)
 <br><br><br>
 
 풀을 뜯던 양과 소는 놀라서 비명을 지르며,<br>

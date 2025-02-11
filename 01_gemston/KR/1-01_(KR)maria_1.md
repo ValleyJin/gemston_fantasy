@@ -86,7 +86,7 @@
 .<br>
 .<br>
 
-![alt text](../images/image-4.png)
+![alt text](/01_gemston/images/image-4.png)
 <br><br><br>
 
 베른의 산골.<br>
@@ -154,7 +154,7 @@
 
 "이거 제가 다 팔아 볼께요. 여기저기 마을을 돌아다니며 양초로 바꿔오면 되죠 ! "  <br>
 
-![alt text](../images/image-2.png)
+![alt text](/01_gemston/images/image-2.png)
 <br><br><br>
 
 쾅 ! <br>
@@ -184,7 +184,7 @@
 맥스는 칼집에서 칼을 꺼낸다. <br>
 그리고는 이글거리는 눈빛으로 테이블을 뒤집어 엎어버렸다. <br>
 
-![alt text](../image.png)
+![alt text](/01_gemston/images/father_max_duel.png)
 
 "결투에서 날 이기면 내가 양초값은 안받지" <br>
 
@@ -219,7 +219,7 @@
 퉁퉁 부어오른 큰 눈의 마리아. <br>
 맥스를 올려다 보며 해맑게 웃고 있다.<br>
 
-![alt text](../image-1.png)
+![alt text](/01_gemston/images/image-1.png)
 
 "무슨 짓을 한거냐?"<br>
 
