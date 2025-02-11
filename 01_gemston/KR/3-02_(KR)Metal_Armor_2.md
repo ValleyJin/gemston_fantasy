@@ -1,4 +1,4 @@
-# 27. 듀얼(duel)<br>
+# 28. 듀얼(duel)<br>
 <br><br><br>
 
 합스부르크궁으로 향하는 오솔길 위, <br>
@@ -106,7 +106,7 @@
 제랄드는 말고삐를 쥔 채 터벅 터벅 걸어서 떠나간다. <br>
 <br><br><br>
 
-# 28. 불타는 메탈아머(the Metal Armor)<br>
+# 29. 불타는 메탈아머(the Metal Armor)<br>
 <br><br><br>
 
 그들이 사라지는 모습을 지켜보는 요한은 착찹한 마음이다.<br>
@@ -203,4 +203,4 @@
 <br><br><br>
 
 * [목차 보기](content_kr.md) <br>
-* [다음 편 읽기](3-03_(KR)forging_1.md)
+* [다음 편 읽기](/01_gemston/KR/3-03_(KR)forging_1.md)

@@ -1,7 +1,7 @@
-# 22. 밝혀지는 마리아의 비밀 <br>
+# 23. 밝혀지는 마리아의 비밀 <br>
 <br><br><br>
 
-![alt text](images/ch-2-04-Morgarten.webp)
+![alt text](/01_gemston/images/ch-2-04-Morgarten.webp)
 <br><br><br>
 
 "바보같은 놈. 그렇게 떨고 있으면 누가 목숨이라도 살려준다냐?" <br>
@@ -205,4 +205,4 @@
 <br><br><br>
 
 * [목차 보기](content_kr.md) <br>
-* [다음 편 읽기](3-01_(KR)templar_knights_1.md)
+* [다음 편 읽기](/01_gemston/KR/3-01_(KR)templar_knights_1.md)

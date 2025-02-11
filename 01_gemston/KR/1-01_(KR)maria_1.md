@@ -1,7 +1,7 @@
 # 3. 베른(Bern)의 꺼지지 않는 촛불 <br>
 <br><br><br>
 
-![alt text](images/ch-0-01-Murtensee.webp)
+![alt text](/01_gemston/images/ch-0-01-Murtensee.webp)
 <br><br><br>
 
 1313년 11월 2일, 새벽녘.<br>
@@ -66,7 +66,7 @@
 전속력으로 돌진해오던 늑대 무리들은 하나같이 눈이 멀어버렸고, <br>
 방향도 틀지 못한채 그대로 호수로 떨어졌다. <br>
 
-![alt text](images/ch-0-01-Murtensee_2.webp)
+![alt text](/01_gemston/images/ch-0-01-Murtensee_2.webp)
 <br><br><br>
 아빠는 섬광이 자신의 뒤쪽에서 섬광이 날아온다는 것을 느끼고는 눈을 가리며 뒤를 돌아보았다. <br>
 하지만, 실눈을 떠도 도저히 쳐다보기가 힘든 강렬한 빛이었다. <br>
@@ -86,7 +86,7 @@
 .<br>
 .<br>
 
-![alt text](images/image-4.png)
+![alt text](../images/image-4.png)
 <br><br><br>
 
 베른의 산골.<br>
@@ -154,7 +154,7 @@
 
 "이거 제가 다 팔아 볼께요. 여기저기 마을을 돌아다니며 양초로 바꿔오면 되죠 ! "  <br>
 
-![alt text](images/image-2.png)
+![alt text](../images/image-2.png)
 <br><br><br>
 
 쾅 ! <br>
@@ -184,7 +184,7 @@
 맥스는 칼집에서 칼을 꺼낸다. <br>
 그리고는 이글거리는 눈빛으로 테이블을 뒤집어 엎어버렸다. <br>
 
-![alt text](image.png)
+![alt text](../image.png)
 
 "결투에서 날 이기면 내가 양초값은 안받지" <br>
 
@@ -219,7 +219,7 @@
 퉁퉁 부어오른 큰 눈의 마리아. <br>
 맥스를 올려다 보며 해맑게 웃고 있다.<br>
 
-![alt text](image-1.png)
+![alt text](../image-1.png)
 
 "무슨 짓을 한거냐?"<br>
 
@@ -255,9 +255,9 @@
 
 마굿간 옆에 세워둔 마차 안에서 가득한 조약돌 주머니. 그 주머니들이 온통 빛을 뿜으며 길거리를 환하게 비추고 있었다.<br>
 <br>
-![alt text](image-2.png)
+![alt text](/01_gemston/images/ch-1-01-maria_cart.png)
 
 <br><br><br>
 
 * [목차 보기](content_kr.md) <br>
-* [다음 편 읽기](1-01_(KR)maria_2.md)
+* [다음 편 읽기](/01_gemston/KR/1-01_(KR)maria_2.md)

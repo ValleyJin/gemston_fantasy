@@ -1,7 +1,7 @@
-# 20. 할버드의 섬광 <br>
+# 21. 할버드의 섬광 <br>
 <br><br><br>
 
-![alt text](images/ch-2-04-Habsburg_palace.webp)
+![alt text](/01_gemston/images/ch-2-04-Habsburg_palace.webp)
 <br><br><br>
 
 장엄하게 병사들이 사열되어 있는 스위스의 합스부르크궁. <br>
@@ -63,10 +63,10 @@
 
 <br><br><br>
 
-# 21. 모르가르텐 전투 <br>
+# 22. 모르가르텐 전투 <br>
 <br><br><br>
 
-![alt text](images/ch-2-04-Morgarten.webp)
+![alt text](/01_gemston/images/ch-2-04-Morgarten.webp)
 <br><br><br>
 
 1315년 11월 15일  <br>
@@ -129,4 +129,4 @@
 <br><br><br>
 
 * [목차 보기](content_kr.md) <br>
-* [다음 편 읽기](2-04_(KR)miracle_2.md)
+* [다음 편 읽기](/01_gemston/KR/2-04_(KR)miracle_2.md)

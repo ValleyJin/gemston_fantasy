@@ -1,7 +1,7 @@
 # 4. 마리아(Maria) <br>
 <br><br><br>
 
-![alt text](mari_grandma.png) <br><br><br>
+![alt text](../mari_grandma.png) <br><br><br>
 "우리 애기" <br>
 
 마리아가 오리라는 것을 이미 아신다는 듯한 말투다. <br>
@@ -240,4 +240,4 @@
 <br><br><br>
 
 * [목차 보기](content_kr.md) <br>
-* [다음 편 읽기](1-02_(KR)cesar_1.md)
+* [다음 편 읽기](/01_gemston/KR/1-02_(KR)cesar_1.md)

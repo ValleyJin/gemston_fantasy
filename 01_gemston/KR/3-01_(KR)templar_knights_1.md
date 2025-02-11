@@ -1,7 +1,7 @@
-# 23. CERN의 심야실험<br>
+# 24. CERN의 심야실험<br>
 <br><br><br>
 
-![CERN](./images/ch-3-01-CERN.webp)
+![CERN](/01_gemston/images/ch-3-01-CERN.webp)
 <br><br><br>
 
 유럽 입자 물리 연구소(Organisation Européenne pour la Recherche Nucléaire, CERN). <br>
@@ -137,7 +137,7 @@ CERN에는 피터 혼자만 남아있다. 고요함이 주위에 감돈다.<br>
 
 <br><br><br>
 
-# 24. 성전기사단 <br>
+# 25. 성전기사단 <br>
 <br><br><br>
 
 1315년 11월 20일 <br>
@@ -240,4 +240,4 @@ CERN에는 피터 혼자만 남아있다. 고요함이 주위에 감돈다.<br>
 <br><br><br>
 
 * [목차 보기](content_kr.md) <br>
-* [다음 편 읽기](3-01_(KR)templar_knights_2.md)
+* [다음 편 읽기](/01_gemston/KR/3-01_(KR)templar_knights_2.md)

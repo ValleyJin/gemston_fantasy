@@ -1,7 +1,7 @@
 # 7. 잼스톤 에너지 <br>
 <br><br><br>
 
-![alt text](images/ch-01-03-Bern.png)
+![alt text](/01_gemston/images/ch-01-03-Bern.png)
 <br><br><br>
 
 베른의 트램이 딸랑딸랑 종소리를 내면서 움직인다. <br>
@@ -49,7 +49,7 @@ TV를 켜보니, 노벨상 생중계는 이미 시작되었다.  <br>
 # 8. 아비뇽(Avignon)의 교황 <br>
 <br><br><br>
 
-![alt text](images/ch-01-03-Agvignon.webp)
+![alt text](/01_gemston/images/ch-01-03-Agvignon.webp)
 <br><br><br>
 
 1314년 1월. 아비뇽 교황청.<br>
@@ -168,4 +168,4 @@ TV를 켜보니, 노벨상 생중계는 이미 시작되었다.  <br>
 <br><br><br>
 
 * [목차 보기](content_kr.md) <br>
-* [다음 편 읽기](1-03_(KR)Avignon_2.md)
+* [다음 편 읽기](/01_gemston/KR/1-03_(KR)Avignon_2.md)

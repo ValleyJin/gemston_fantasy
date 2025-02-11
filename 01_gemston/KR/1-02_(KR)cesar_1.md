@@ -1,7 +1,7 @@
 # 5. 세자르(Cesar) <br>
 <br><br><br>
 
-![alt text](./images/ch-1-02-cesar_reofold_party.webp)
+![alt text](/01_gemston/images/ch-1-02-cesar_reofold_party.webp)
 <br><br><br>
 
 '제국은 힘이 필요 하오, 세자르'<br>
@@ -42,7 +42,7 @@
 무녀는 공포에 질려 자기도 모른다며 고개를 흔든다.<br>
 
 <br><br><br>
-![alt text](./images/ch-01-2-cesar-02.png)
+![alt text](/01_gemston/images/ch-01-2-cesar-02.png)
 <br><br><br>
 
 세자르는 연회장의 횃불을 하나 집어 들더니 무녀가 묵인 기둥 밑에 차려진 장작 더미에 던져 버린다. <br>
@@ -60,7 +60,7 @@
 세자르는 숯덩어리가 되어 내려앚은 무녀를 발로 툭툭 찬다.<br>
 
 <br><br><br>
-![alt text](./images/ch-01-2-cesar-03.png)
+![alt text](/01_gemston/images/ch-01-2-cesar-03.png)
 <br><br><br>
 
 세자르는 하늘을 한번 올려다 본다.<br>
@@ -104,4 +104,4 @@
 <br><br><br>
 
 * [목차 보기](content_kr.md) <br>
-* [다음 편 읽기](1-02_(KR)cesar_2.md)
+* [다음 편 읽기](/01_gemston/KR/1-02_(KR)cesar_2.md)

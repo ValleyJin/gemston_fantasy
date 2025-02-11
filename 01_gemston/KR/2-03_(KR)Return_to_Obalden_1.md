@@ -1,7 +1,7 @@
 # 18. 메탈아머의 반환<br>
 <br><br><br>
 
-![Rothchild-Venice-Bank](images/ch-2-03-Rothchild-Venice.webp)
+![Rothchild-Venice-Bank](/01_gemston/images/ch-2-03-Rothchild-Venice.webp)
 <br><br><br>
 
 이탈리아 베네치아 소재의 로스차일드 가문 소유의 은행<br>
@@ -20,7 +20,7 @@
 "여러분, 우리의 선조인 제랄드 경이 입었던 갑옷입니다."<br>
 회장은 자랑스럽게 유물을 소개하였다. <br>
 
-![alt text](images/ch-0-01-metal_armor.webp)
+![alt text](/01_gemston/images/ch-0-01-metal_armor.webp)
 <br><br><br>
 
 불빛에 쟈세히 보면, 표면에는 지문같은 돌출된 무늬가 선명하게 각인되어 있다.<br>
@@ -59,7 +59,7 @@
 특수제작된 소형금고안에 넣어진다.,<br>
 특수경호차량과 함께 cafe Maria로 출발한다.<br>
 <br>
-![alt text](images/ch-2-03-SUV.webp)
+![alt text](/01_gemston/images/ch-2-03-SUV.webp)
 <br><br><br>
 
 # 19. 옵발덴으로의 복귀<br>
@@ -152,4 +152,4 @@
 <br><br><br>
 
 * [목차 보기](content_kr.md) <br>
-* [다음 편 읽기](2-03_(KR)Return_to_Obalden_2.md)
+* [다음 편 읽기](/01_gemston/KR/2-03_(KR)Return_to_Obalden_2.md)

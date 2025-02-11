@@ -128,4 +128,4 @@
 
 <br><br><br>
 * [목차 보기](content_kr.md) <br>
-* [다음 편 읽기](2-02_(KR)Maria_Pilgrimage_2.md)
+* [다음 편 읽기](/01_gemston/KR/2-02_(KR)Maria_Pilgrimage_2.md)

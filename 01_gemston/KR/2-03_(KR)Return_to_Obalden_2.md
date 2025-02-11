@@ -1,4 +1,4 @@
-# 19. 전투 포메이션(battle formation) <br>
+# 20. 전투 포메이션(battle formation) <br>
 <br><br><br>
 
 "참 대단하십니다. "<br>
@@ -191,4 +191,4 @@
 
 <br><br><br>
 * [목차 보기](content_kr.md) <br>
-* [다음 편 읽기](2-04_(KR)miracle_1.md)
+* [다음 편 읽기](/01_gemston/KR/2-04_(KR)miracle_1.md)

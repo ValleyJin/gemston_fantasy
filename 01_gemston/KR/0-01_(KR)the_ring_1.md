@@ -1,6 +1,6 @@
 # 1. 링(The Ring)
 <br><br><br>
-![Ring](images/ch-0-01-control_center.png)
+![Ring](/01_gemston/images/ch-0-01-control_center.png)
 
 2031년 12월 1일 아침 8시 13분 (미국동부표준시) <br>
 NASA 고다드 우주비행센터(GSFC), <br>
@@ -104,7 +104,7 @@ diamonds... <br>
 오우... <br>
 세 사람이 일시에 내뱉는 소리가 무겁게 울렸다. <br>
 
-![Ring](images/ch-0-01-ring.png)
+![Ring](../images/ch-0-01-ring.png)
 <br><br><br>
 
 그것은 거대한 링(ring)이었다. <br>
@@ -237,7 +237,7 @@ NSA(National Security Agency)에서도 처음에 신호를 잡았을 때는, <br
 "이 그림 한번 보실래요? 거기 지하실에서 발견한건데." <br>
 그는 중앙 모니터에 그림을 띄웠다.<br>
 
-![Gemstone](images/ch-0-02-stigmata.png)
+![Gemstone](../images/ch-0-02-stigmata.png)
 
 "아..." <br>
 모두들 탄성이 터진다. <br>
@@ -248,7 +248,7 @@ NSA(National Security Agency)에서도 처음에 신호를 잡았을 때는, <br
 손바닥에는 링이 그려져 있어요.
 이 그림을 바라보는 당신은 지구의 위치에 해당하겠죠." <br>
 
-![Gemstone](images/ch-0-01-Lagrangian_point.webp)
+![Gemstone](../images/ch-0-01-Lagrangian_point.webp)
 
 한참 동안 정적이 흘렀다. <br>
 
@@ -291,4 +291,4 @@ NSA(National Security Agency)에서도 처음에 신호를 잡았을 때는, <br
 <br><br><br>
 
 * [목차 보기](content_kr.md) <br>
-* [다음 편 읽기](01_gemston/0-01_(KR)the_ring_2.md)
+* [다음 편 읽기](/01_gemston/KR/0-01_(KR)the_ring_2.md)
