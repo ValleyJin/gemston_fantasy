@@ -104,5 +104,5 @@
 <br><br><br>
 
 * [목차 보기](content_kr.md) <br>
-* [이전 편 읽기](/01_gemston/KR/1-01_(KR)maria_2.md)
-* [다음 편 읽기](/01_gemston/KR/1-02_(KR)cesar_2.md)
+* [이전 편 읽기](/01_gemston/KR/KR_4.md)
+* [다음 편 읽기](/01_gemston/KR/KR_6.md)

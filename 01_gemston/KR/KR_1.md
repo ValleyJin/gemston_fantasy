@@ -291,4 +291,4 @@ NSA(National Security Agency)에서도 처음에 신호를 잡았을 때는, <br
 <br><br><br>
 
 * [목차 보기](content_kr.md) <br>
-* [다음 편 읽기](/01_gemston/KR/0-01_(KR)the_ring_2.md)
+* [다음 편 읽기](/01_gemston/KR/KR_2.md)

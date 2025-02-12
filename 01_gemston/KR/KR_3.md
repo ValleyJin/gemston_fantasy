@@ -260,5 +260,5 @@
 <br><br><br>
 
 * [목차 보기](content_kr.md) <br>
-* [이전 편 읽기](/01_gemston/KR/0-01_(KR)the_ring_2.md)
-* [다음 편 읽기](/01_gemston/KR/1-01_(KR)maria_2.md)
+* [이전 편 읽기](/01_gemston/KR/KR_2.md)
+* [다음 편 읽기](/01_gemston/KR/KR_4.md)
