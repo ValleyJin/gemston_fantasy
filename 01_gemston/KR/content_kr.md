@@ -33,5 +33,5 @@
 ### [33. 다가오는 위험](/01_gemston/KR/KR_32-33.md)
 ### [34. 깨어나는 링](/01_gemston/KR/KR_34-35.md)
 ### [35. 잼스톤 기사단 (GemSTON Knights)](/01_gemston/KR/KR_34-35.md)
-### [36. 여왕의 귀환](/01_gemston/KR/KR_36-37.md)
-### [37. 언스테이킹(Unstaking)](/01_gemston/KR/KR_36-37.md) 
+### [36. 여왕의 귀환](/01_gemston/KR/KR_36.md)
+### [37. 언스테이킹(Unstaking)](/01_gemston/KR/KR_37.md) 
