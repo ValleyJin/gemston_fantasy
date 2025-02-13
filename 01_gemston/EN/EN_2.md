@@ -1,6 +1,6 @@
 # 2. Dr. Andrew Levi's Homecoming
 <br><br><br>
-Forty years passed after the discovery of the Ring. <br>
+Forty years passed after the discovery of . <br>
 Bern, Switzerland
 
 . <br>

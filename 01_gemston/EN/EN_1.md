@@ -149,10 +149,10 @@ Suddenly, Andrew rushed to his own console, switching his headset on. <br>
 
 On the main screen, everyone saw Andrew’s interface. <br>
 “Wait, what do we even call that object?” <br>
-“Let’s just call it the Ring,” <br>
+“Let’s just call it The Ring,” <br>
 Kennedy said. Andrew typed a brief greeting. <br>
 
-“Hi, the Ring.” <br>
+“Hi, The Ring.” <br>
 It took about 19 minutes for signals to go to L4 and back. <br>
 They waited tensely. <br>
 
@@ -178,12 +178,12 @@ The Lucy comm logs displayed a crystal-clear response. <br>
 They looked at each other without saying a word. <br>
 
 “Operator,” said Kennedy, voice trembling, “where’s that coming from?” <br>
-“From the Ring itself. Lucy’s only passing it along,” <br>
+“From The Ring itself. Lucy’s only passing it along,” <br>
 the operator answered, standing and pointing to the front monitor. <br>
 “See that graph on monitor two?” <br>
 
-As Lucy neared the Ring, <br>
-it transmitted mass amounts of data on the Ring’s shape and materials. <br>
+As Lucy neared The Ring, <br>
+it transmitted mass amounts of data on The Ring’s shape and materials. <br>
 “It’s practically telling Lucy, ‘Here I am, come see me.’” <br>
 
 Kennedy made a quick call to HR. <br>
@@ -225,7 +225,7 @@ Exchanging a look, one agent took a glowing gemstone from his briefcase. <br>
 It shimmered with a deep blue hue, not just reflection but actual glow. <br>
 “The basement at cafe Marta is cleverly hidden. <br>
 You’d be shocked at how many Gemstones are stashed down there, <br>
-sending a faint trickle of energy to the Ring. <br>
+sending a faint trickle of energy to The Ring. <br>
 At first, NSA thought it was a spy signal, but we traced it.” <br>
 
 Returning the Gemstone to his bag, the agent continued, <br>
@@ -265,7 +265,7 @@ and on the adjacent monitor, that mysterious Ring. <br>
 
 Resolute, Andrew followed the agents outside. <br>
 
-“Lucy’s about to reach the Ring. We’re engaging reverse thrust,” <br>
+“Lucy’s about to reach The Ring. We’re engaging reverse thrust,” <br>
 the operator reported. <br>
 
 Everyone paused, staring at the monitor. Lucy’s reverse thrusters fired. <br>

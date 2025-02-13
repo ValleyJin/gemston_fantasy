@@ -31,7 +31,7 @@
 ### [31. Reunion](/01_gemston/EN/EN_30-31.md)
 ### [32. Forging](/01_gemston/EN/EN_32-33.md)
 ### [33. The Impending Danger](/01_gemston/EN/EN_32-33.md)
-### [34. The Awakening of the Ring](/01_gemston/EN/EN_34-35.md)
+### [34. The Awakening of The Ring](/01_gemston/EN/EN_34-35.md)
 ### [35. The GemSTON Knights](/01_gemston/EN/EN_34-35.md)
 ### [36. The Return of the Queen](/01_gemston/EN/EN_36.md)
 ### [37. Unstaking](/01_gemston/EN/EN_37.md)
