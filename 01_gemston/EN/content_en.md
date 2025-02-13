@@ -15,7 +15,7 @@
 ### [15. Cesar’s Scheme](/01_gemston/EN/EN_15.md)
 ### [16. The Road to Uri](/01_gemston/EN/EN_16.md)
 ### [17. The Promised Land, Schwyz](/01_gemston/EN/EN_17.md)
-### [18. The Return of Metal Armor](/01_gemston/EN/EN_18-18.md)
+### [18. The Return of Metal Armor](/01_gemston/EN/EN_18-19.md)
 ### [19. Return to Obwalden](/01_gemston/EN/EN_18-19.md)
 ### [20. Battle Formation](/01_gemston/EN/EN_20.md)
 ### [21. The Flash of the Halberd](/01_gemston/EN/EN_21-22.md)
