@@ -4,7 +4,7 @@
 ### [4. 마리아(Maria)](/01_gemston/KR/KR_4.md)
 ### [5. 세자르(Cesar)](/01_gemston/KR/KR_5.md)
 ### [6. 악연의 시작](/01_gemston/KR/KR_6.md)
-### [7. 잼스톤 에너지](/01_gemston/KR/1-03_(KR)Avignon_1.md)
+### [7. 잼스톤 에너지](/01_gemston/KR/KR_7-8.md)
 ### [8. 아비뇽(Agvinon의 교황](/01_gemston/KR/KR_7-8.md)
 ### [9. 세자르의 참전](/01_gemston/KR/KR_9.md)
 ### [10. 마이닝(mining)](/01_gemston/KR/KR_10.md)
