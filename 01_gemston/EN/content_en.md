@@ -6,7 +6,7 @@
 ### [6. The Beginning of a Feud](/01_gemston/EN/EN_6.md)
 ### [7. GemSTONE Energy](/01_gemston/EN/EN_7-8.md)
 ### [8. The Pope of Avignon](/01_gemston/EN/EN_7-8.md)
-### [9. Cesar’s Intervention](/01_gemston/EN/EN_9.md)
+### [9. Cesar Joins the Battle](/01_gemston/EN/EN_9.md)
 ### [10. Mining](/01_gemston/EN/EN_10.md)
 ### [11. The Power of GemSTONE](/01_gemston/EN/EN_11-12.md)
 ### [12. Staking](/01_gemston/EN/EN_11-12.md)

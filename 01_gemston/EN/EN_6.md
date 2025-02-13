@@ -1,4 +1,4 @@
-# 6. The Start of a Hostile Fate
+# 6. The Beginning of a Feud
 <br><br><br>
 Spring came to Bern.<br>
 

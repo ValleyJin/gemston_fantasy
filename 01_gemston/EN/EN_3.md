@@ -1,4 +1,4 @@
-# 3. The Unextinguished Candlelight in Bern
+# 3. The Everlasting Candle of Bern  
 <br><br><br>
 ![alt text](/01_gemston/images/ch-0-01-Murtensee.webp)
 <br><br><br>
