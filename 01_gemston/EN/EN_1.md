@@ -1,4 +1,4 @@
-# 1. The Ring
+# 1. The Ring V1.0
 <br><br><br>
 ![Ring](/01_gemston/images/ch-0-01-control_center.png)
 
