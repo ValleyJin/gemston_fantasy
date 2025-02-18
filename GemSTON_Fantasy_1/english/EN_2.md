@@ -22,7 +22,7 @@ It's ours anyway, so borrowing it for a bit shouldn't be an issue, right?”
 Peter (Peter Levi) rechecked that message and stepped into Cafe Marta.    
 
 "Do you have a reservation name?"    
-<nobr>"Andrew Levi. A tall older gentleman with a white beard."</nobr>  
+"Andrew Levi. A tall older gentleman with a white beard."  
 "Ah, over by the basement storeroom entrance. They're all here already."    
 
 "Grandpa!"    
