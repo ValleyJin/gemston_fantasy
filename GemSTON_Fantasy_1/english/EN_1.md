@@ -22,7 +22,7 @@ Lucy in the sky with diamonds
 diamonds    
 diamonds...    
 The chorus echoed as if in a dream,    
-yet Dr. Alan Kennedy, the center director, had no choice but to wake up.    
+yet Dr.Alan Kennedy, the center director, had no choice but to wake up.    
 
 Thud.    
 A large man barged in, pushing the door and toppling stacks of supplies.    
