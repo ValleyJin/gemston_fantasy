@@ -1,13 +1,13 @@
 # 2. Dr. Andrew Levi's Homecoming 
 
 Forty years passed after the discovery of .    
-Bern, Switzerland
+Bern, Switzerland  
 
-![alt text](/GemSTON_Fantasy_1/images/ch-0-01-Bern_cafe.webp)
+![alt text](/GemSTON_Fantasy_1/images/ch-0-01-Bern_cafe.webp)  
 
-“My dear Peter,    
-I, your old Grandpa, arrived in Bern earlier this month,    
-and took some time to look around.    
+“My dear Peter,  
+I, your old Grandpa, arrived in Bern earlier this month,   
+and took some time to look around.   
 
 Abigail's group left Australia, too,    
 so let's meet at Cafe Marta tomorrow evening as planned.    
@@ -22,7 +22,7 @@ It's ours anyway, so borrowing it for a bit shouldn't be an issue, right?”
 Peter (Peter Levi) rechecked that message and stepped into Cafe Marta.    
 
 "Do you have a reservation name?"    
-"Andrew Levi. A tall older gentleman with a white beard."    
+"Andrew Levi\. A tall older gentleman with a white beard."    
 "Ah, over by the basement storeroom entrance. They're all here already."    
 
 "Grandpa!"    
