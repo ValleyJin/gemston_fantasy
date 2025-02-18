@@ -1,15 +1,9 @@
-# 2. Dr. Andrew Levi's Homecoming
-  
+# 2. Dr. Andrew Levi's Homecoming 
 
 Forty years passed after the discovery of .    
 Bern, Switzerland
 
-.    
-.    
-.    
-
 ![alt text](/GemSTON_Fantasy_1/images/ch-0-01-Bern_cafe.webp)
-
 
 “My dear Peter,    
 I, your old Grandpa, arrived in Bern earlier this month,    

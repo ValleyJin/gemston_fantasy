@@ -1,7 +1,6 @@
-# 1. The Ring
-  
+# 1. The Ring 
 
-![Ring](/GemSTON_Fantasy_1/images/ch-0-01-control_center.png)
+![Ring](/GemSTON_Fantasy_1/images/ch-0-01-control_center.png)  
 
 December 1, 2031, 8:13 a.m. (Eastern Standard Time)    
 NASA Goddard Space Flight Center (GSFC),    
@@ -105,7 +104,7 @@ The operator watched the monitor.
 "Wow…"    
 All three uttered a single, heavy exhale of awe.    
 
-![Ring](../images/ch-0-01-ring.png)
+![Ring](../images/ch-0-01-ring.png)  
 
 They were seeing a massive ring.    
 Kennedy slipped off his glasses, peering at the central screen.    

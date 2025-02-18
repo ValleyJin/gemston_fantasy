@@ -1,6 +1,4 @@
-# 1. 링(The Ring) <br>
-<br><br><br>
-![Ring](/01_gemston/images/ch-0-01-control_center.png)
+# 1. 링(The Ring)  
 
 2031년 12월 1일 아침 8시 13분 (미국동부표준시)  
 NASA 고다드 우주비행센터(GSFC),  

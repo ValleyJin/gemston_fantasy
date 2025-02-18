@@ -1,11 +1,10 @@
-# 2. 앤드류 레비 박사의 귀향 <br>
-<br><br><br>
+# 2. 앤드류 레비 박사의 귀향  
 
 더링을 발견한 후 40년 뒤,  
 스위스 베른(Bern)  
 
-![alt text](/01_gemston/images/ch-0-01-Bern_cafe.webp)
-<br><br><br>
+![alt text](/GemsTON_Fantasy_1/images/ch-0-01-Bern_cafe.webp)
+
 .  
 .  
 .  
@@ -54,8 +53,7 @@
 
 "우와..."  
 
-![alt text](/01_gemston/images/image.png)
-<br><br><br>
+![alt text](/GemsTON_Fantasy_1/images/image.png)
 
 "공식적인 허가도 없이 빌려왔는데, CERN에서 알면 잘릴지도 몰라요."  
 피터가 투덜거렸다.  
