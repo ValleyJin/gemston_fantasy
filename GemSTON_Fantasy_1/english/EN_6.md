@@ -4,9 +4,9 @@ Spring had arrived in Bern.
 
 Over the past few months, Max had become a complete drunkard. He cursed Maria as a witch and reported to Grand Duke Zähringen that his candle business had suffered because of her.  
 
-"The Grand Duke has sent a letter to the Vatican. A special envoy should arrive soon—there's no way they'll sit idly by when a witch has appeared."  
+"The Grand Duke has sent a letter to the Avignon. A special envoy should arrive soon—there's no way they'll sit idly by when a witch has appeared."  
 
-Drunk, Max staggered through the town square. Behind the fountain, a neatly dressed young man approached. It was Caesar, who had arrived in Bern two months after leaving the Vatican.  
+Drunk, Max staggered through the town square. Behind the fountain, a neatly dressed young man approached. It was Caesar, who had arrived in Bern two months after leaving the Avignon.  
 
 However, in Max’s eyes, he was nothing more than a brat just asking for trouble.  
 
@@ -96,7 +96,7 @@ With a dull sound, Maria’s mother collapsed.
 A soldier had struck her on the head with a club from behind.  
 
 "So the witch capable of fully controlling the gemstone's power was here all along."  
-Caesar sneered as he ordered his men to load Maria’s mother onto a carriage bound for the Vatican.  
+Caesar sneered as he ordered his men to load Maria’s mother onto a carriage bound for the Avignon.  
 
 Maria’s father, who had been working in the mines, only returned home hours later.  
 His vacant eyes stared into nothingness, filled with an unbearable emptiness.
