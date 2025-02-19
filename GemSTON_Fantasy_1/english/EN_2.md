@@ -21,7 +21,7 @@ It's ours anyway, so borrowing it for a bit shouldn't be an issue, right?”
 
 Peter (Peter Levi) rechecked that message and stepped into Cafe Marta.    
 
-"Do you have a reservation name?"    
+"Do you have a reservation name?"     
 "Andrew Levi. A tall older gentleman with a white beard."  
 "Ah, over by the basement storeroom entrance. They're all here already."    
 
@@ -55,7 +55,7 @@ Instantly, the table lit up with an iridescent glow.
 "I borrowed this sample without official permission. If they find out, I could get booted from CERN,"    
 Peter grumbled.    
 "Hey, how did our ancestors even wear such a massive stone?"    
-Abigail lightly touched the gem, marveling at its radiance.    
+Abigail lightly touched the gem, marveling at its radiance.  
 
 "Yeah, if they notice, I'm out at CERN. It was tough enough getting that job,"    
 Peter said, still dissatisfied.    
