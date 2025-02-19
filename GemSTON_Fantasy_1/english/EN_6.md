@@ -1,8 +1,5 @@
 # 6. The Beginning of a Feud   
 
-![alt text](/GemSTON_Fantasy_1/images/ch-1-03-secret.webp)    
-
-
 Spring had arrived in Bern.  
 
 Over the past few months, Max had become a complete drunkard. He cursed Maria as a witch and reported to Grand Duke Zähringen that his candle business had suffered because of her.  
