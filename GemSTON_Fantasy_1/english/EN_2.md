@@ -1,29 +1,29 @@
 # 2. Dr. Andrew Levi's Homecoming 
 
-Forty years passed after the discovery of .    
+Forty years passed after the discovery of the Ring.  
 Bern, Switzerland  
 
 ![alt text](/GemSTON_Fantasy_1/images/ch-0-01-Bern_cafe.webp)  
 
-“My dear Peter,  
-I, your old Grandpa, arrived in Bern earlier this month,   
-and took some time to look around.   
+"My dear Peter,  
+I, your old Grandpa, arrived in Bern earlier this month,  
+and took some time to look around.  
 
-Abigail's group left Australia, too,    
-so let's meet at Cafe Marta tomorrow evening as planned.    
+Abigail's group left Australia, too,  
+so let's meet at Cafe Marta tomorrow evening as planned.  
 
-Bring the GemSTON sample.    
-It's ours anyway, so borrowing it for a bit shouldn't be an issue, right?”    
+Bring the GemSTON sample.  
+It's ours anyway, so borrowing it for a bit shouldn't be an issue, right?"  
 
-.    
-.    
-.    
+.  
+.  
+.  
 
-Peter (Peter Levi) rechecked that message and stepped into Cafe Marta.    
+Peter (Peter Levi) rechecked that message and stepped into Cafe Marta.  
 
-"Do you have a reservation name?"     
+"Do you have a reservation name?"  
 "Andrew Levi. A tall older gentleman with a white beard."  
-"Ah, over by the basement storeroom entrance. They're all here already."    
+"Ah, over by the basement storeroom entrance. They're all here already."  
 
 "Grandpa!"    
 Peter dashed over and gave his grandfather a hug.    

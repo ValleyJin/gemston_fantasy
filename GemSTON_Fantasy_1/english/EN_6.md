@@ -1,10 +1,7 @@
 # 6. The Beginning of a Feud   
 
-
 ![alt text](/GemSTON_Fantasy_1/images/ch-1-03-secret.webp)    
 
-
-**Chapter 6: The Beginning of a Fateful Encounter**  
 
 Spring had arrived in Bern.  
 
