@@ -9,7 +9,7 @@
 * 1.1. [Maria](/01_gemston/01_(EN)maria.md) ([마리아](/01_gemston/01_(KR)maria.md))
 * 1.2. Cezar (세자르)
 * 1.3. Mining & Staking (마이닝 & 스테이킹)
-* 1.4. The Vatican (교황청)
+* 1.4. The Avignon (교황청)
 
 ### Introduction
 The term "jewelry" is so closely associated with Jews that it suggests they pioneered this new industry. In the 13th century medieval period, Maria's family, who had been wealthy from operating mines in Rome, were driven out due to Jewish persecution. Under Roman policies targeting Jews, all their valuables, including gold and treasures, were confiscated, leaving them only to take gems, which at the time were considered mere ornaments. They fled to neighboring Switzerland, but even there, they faced difficulties settling due to local hostilities. Amid these challenges, a power that had manifested only in the women of their family for generations began to emerge in Maria...
