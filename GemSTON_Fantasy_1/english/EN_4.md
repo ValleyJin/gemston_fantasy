@@ -1,7 +1,7 @@
 # 4. Maria  
 
   
-![alt text](/GemsTON_Fantasy_1/images/mari_grandma.png)  
+![alt text](/GemSTON_Fantasy_1/images/mari_grandma.png)  
 
   
 "My dear child."  
@@ -63,7 +63,7 @@ Hera fashioned the gemstones into a necklace
 and placed it around the neck of her pet raccoon, Tori.  
 
   
-![alt text](/GemsTON_Fantasy_1/images/tori.png)  
+![alt text](/GemSTON_Fantasy_1/images/tori.png)  
 
   
 But the god of darkness broke the pact,  
@@ -83,7 +83,7 @@ is still searching for the fragments of the GemSTON
 to this day.  
 
   
-![alt text](/01_gemston/images/god_of_darkness.png)  
+![alt text](/GemSTON_Fantasy_1/images/god_of_darkness.png)  
 
   
 Even this grandmother once thought  
@@ -321,7 +321,7 @@ The bell rolled down the hill,
 its echoes spreading through the valley.  
 
   
-![alt text](/GemsTON_Fantasy_1/images/ch-0-01-first_impact.webp)  
+![alt text](/GemSTON_Fantasy_1/images/ch-0-01-first_impact.webp)  
 
   
 Maria’s father’s sword,  
