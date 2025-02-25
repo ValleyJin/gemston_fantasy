@@ -104,7 +104,7 @@ diamonds...
 오우...  
 세 사람이 일시에 내뱉는 소리가 무겁게 울렸다.  
 
-![Ring](../images/ch-0-01-ring.png)
+![Ring](/GemSTON_Fantasy_1/images/ch-0-01-ring.png)
 <br><br><br>
 
 그것은 거대한 링(ring)이었다.  
@@ -238,7 +238,7 @@ NSA(National Security Agency)에서도 처음에 신호를 잡았을 때는,
 그는 중앙 모니터에 그림을 띄웠다.  
 
 
-![Gemstone](../images/ch-0-02-stigmata.png)  
+![Gemstone](/GemSTON_Fantasy_1/images/ch-0-02-stigmata.png)  
 
 
 "아..."  
@@ -250,7 +250,7 @@ NSA(National Security Agency)에서도 처음에 신호를 잡았을 때는,
 손바닥에는 링이 그려져 있어요. 이 그림을 바라보는 당신은 지구의 위치에 해당하겠죠."  
 
 
-![Gemstone](../images/ch-0-01-Lagrangian_point.webp)  
+![Gemstone](/GemSTON_Fantasy_1/images/ch-0-01-Lagrangian_point.webp)  
 
 
 한참 동안 정적이 흘렀다.  

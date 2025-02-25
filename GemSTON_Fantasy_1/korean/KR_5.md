@@ -1,6 +1,6 @@
 # 5. 세자르(Cesar) 
 
-![alt text](/GemsTON_Fantasy_1/images/ch-1-02-cesar_reofold_party.webp)  
+![alt text](/GemSTON_Fantasy_1/images/ch-1-02-cesar_reofold_party.webp)  
 
 '제국은 힘이 필요 하오, 세자르'  
 
@@ -39,7 +39,7 @@
 "살고싶으면, 저불을 키워봐 " 무녀에게 세자르가 속삭였다.  
 무녀는 공포에 질려 자기도 모른다며 고개를 흔든다.  
 
-![alt text](/01_gemston/images/ch-01-2-cesar-02.png)  
+![alt text](/GemSTON_Fantasy_1/images/ch-01-2-cesar-02.png)  
 
 세자르는 연회장의 횃불을 하나 집어 들더니 무녀가 묵인 기둥 밑에 차려진 장작 더미에 던져 버린다.  
 이글거리며 장작이 다 오른다.  
@@ -55,7 +55,7 @@
 
 세자르는 숯덩어리가 되어 내려앚은 무녀를 발로 툭툭 찬다.  
 
-![alt text](/01_gemston/images/ch-01-2-cesar-03.png)  
+![alt text](/GemSTON_Fantasy_1/images/ch-01-2-cesar-03.png)  
 
 세자르는 하늘을 한번 올려다 본다.  
 

@@ -1,6 +1,6 @@
 # 4. 마리아(Maria)  
 
-![alt text](/GemsTON_Fantasy_1/images/mari_grandma.png)  
+![alt text](/GemSTON_Fantasy_1/images/mari_grandma.png)  
 
 "우리 애기"  
 
@@ -38,7 +38,7 @@
 헤라는 잼스톤을 목걸이로 만들어서,  
 자신이 기르는 너구리 토리(Tori)의 목에 걸어주었어.  
 
-![alt text](/GemsTON_Fantasy_1/images/tori.png)  
+![alt text](/GemSTON_Fantasy_1/images/tori.png)  
 
 하지만 어둠의 신은  약속을 어기고, 몰래 다가와서 토리를 납치했어.  
 토리 목에 걸려있는 잼스톤에서 거대한 힘을 꺼내려고 했지.  
@@ -50,7 +50,7 @@
 탐욕스러운 어둠의 신은  
 지금도 잼스톤 조각들을 찾으러 다니고 있어.  
 
-![alt text](/GemsTON_Fantasy_1/images/god_of_darkness.png)  
+![alt text](/GemSTON_Fantasy_1/images/god_of_darkness.png)  
 
 이 할머니도 이것이 전설인 줄 알았어.  
 자장가처럼.  
@@ -197,7 +197,7 @@
 부서진 종의 파편이 나무 울타리를 부수고,  
 깨진 벽돌은 언덕 위 오솔길에 널브러졌다.  
 
-![alt text](/GemsTON_Fantasy_1/images/ch-0-01-first_impact.webp)  
+![alt text](/GemSTON_Fantasy_1/images/ch-0-01-first_impact.webp)  
 
 풀을 뜯던 양과 소는 놀라서 비명을 지르며,  
 언덕 너머로 달아난다.  
