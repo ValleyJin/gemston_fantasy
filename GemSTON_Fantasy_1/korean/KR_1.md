@@ -1,11 +1,11 @@
 # 1. 링(The Ring)  
-
-![Ring](/GemSTON_Fantasy_1/images/ch-0-01-control_center.png)  
-
+  
 2031년 12월 1일 아침 8시 13분 (미국동부표준시)  
 NASA 고다드 우주비행센터(GSFC),  
 Greenbelt, Maryland, MD 20771, USA  
-
+  
+![Ring](/GemSTON_Fantasy_1/images/ch-0-01-control_center.png)  
+  
 아침 햇살이 창문으로 따스하게 스며든다.  
 여기저기 걸린 모니터들은 소행성 탐사선 루시(Lucy)의 궤도를 추적하는 영상으로 가득하다.  
 
