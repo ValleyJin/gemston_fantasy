@@ -2,9 +2,6 @@
 
 "우리 애기." 
 "우리 애기." 
-"우리 애기." 
-"우리 애기." 
-"우리 애기."  
 
 ![alt text](/GemSTON_Fantasy_1/images/mari_grandma.png)  
 
