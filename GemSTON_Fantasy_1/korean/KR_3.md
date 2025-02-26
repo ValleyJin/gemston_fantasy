@@ -1,10 +1,10 @@
 # 3. 베른(Bern)의 꺼지지 않는 촛불    
-
-![alt text](/GemSTON_Fantasy_1/images/ch-0-01-Murtensee.webp)
-
+  
 1313년 11월 2일, 새벽녘.  
 스위스 베른으로 향하는 길.  
-
+  
+![alt text](/GemSTON_Fantasy_1/images/ch-0-01-Murtensee.webp)
+  
 무르텐(Murtensee) 호수의 찬 기운이 감도는 고원 위를  
 눈보라를 뚫고 달리는 마차행렬이 보인다.
 
