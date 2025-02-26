@@ -2,6 +2,7 @@
 
 "우리 애기."  
 
+
 ![alt text](/GemSTON_Fantasy_1/images/mari_grandma.png)  
 
 마리아가 오리라는 것을 이미 아신다는 듯한 말투다.  
