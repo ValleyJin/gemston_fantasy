@@ -1,7 +1,7 @@
-# 1. The Ring 
-
+# 1. The Ring  
+  
 ![Ring](/GemSTON_Fantasy_1/images/ch-0-01-control_center.png)  
-
+  
 December 1, 2031, 8:13 a.m. (Eastern Standard Time)    
 NASA Goddard Space Flight Center (GSFC),    
 Greenbelt, Maryland, MD 20771, USA    
