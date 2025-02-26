@@ -290,7 +290,7 @@ NSA(National Security Agency)에서도 처음에 신호를 잡았을 때는,
 번쩍이는 섬광이 화면을 가득채우더니,  
 굉음과 함께, 모든 모니터의 신호가 꺼져버렸다.  
 
-<br><br><br>
+      
 
 * [목차 보기](content_kr.md)  
 * [다음 편 읽기](/01_gemston/KR/KR_2.md)
