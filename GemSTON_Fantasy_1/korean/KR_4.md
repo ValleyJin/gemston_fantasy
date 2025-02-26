@@ -1,9 +1,9 @@
 # 4. 마리아(Maria)  
-  
+
 "우리 애기"  
-  
+
 ![alt text](/GemSTON_Fantasy_1/images/mari_grandma.png)  
-  
+
 마리아가 오리라는 것을 이미 아신다는 듯한 말투다.  
 할머니는 불을 켜놓고 기다리고 있었다.  
 하지만 그건 촛불이 아니었다.  

@@ -104,9 +104,8 @@ diamonds...
 오우...  
 세 사람이 일시에 내뱉는 소리가 무겁게 울렸다.  
 
-![Ring](/GemSTON_Fantasy_1/images/ch-0-01-ring.png)
-<br><br><br>
-
+![Ring](/GemSTON_Fantasy_1/images/ch-0-01-ring.png)  
+  
 그것은 거대한 링(ring)이었다.  
 케네디 박사는 안경을 벗고 중앙 모니터를 뚫어지게 바라봤다.  
 
